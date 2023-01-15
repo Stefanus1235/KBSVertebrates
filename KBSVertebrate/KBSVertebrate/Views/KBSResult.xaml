@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="KBSVertebrate.ViewModels.KBSResult"
+             xmlns:model="clr-namespace:KBSVertebrate.Models"
+             xmlns:viewmodel="clr-namespace:KBSVertebrate.ViewModels">
+    
+    <ContentPage.Content>
+        <StackLayout Margin="20">
+            <Label TextColor="Black" FontSize="20" Text="Hasil:"></Label>
+            <CollectionView ItemsSource="{Binding ResultList}">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate x:DataType="model:ResultModel">
+                        <StackLayout>
+                            <Label HorizontalOptions="Center" TextColor="Black" FontSize="20" Text="{Binding Result}"></Label>
+                        </StackLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

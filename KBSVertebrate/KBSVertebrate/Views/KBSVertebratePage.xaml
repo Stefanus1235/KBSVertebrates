@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:model="clr-namespace:KBSVertebrate.Models"
+             xmlns:viewmodel="clr-namespace:KBSVertebrate.ViewModels"
+
+             x:Class="KBSVertebrate.Views.KBSVertebratePage">
+    <ContentPage.Content>
+        <StackLayout Margin="20">
+            <CarouselView   ItemsSource="{Binding CurrentQuestion}">
+                <CarouselView.ItemTemplate>
+                    <DataTemplate x:DataType="model:QuestionModel">
+                        <StackLayout >
+                            <Label TextColor="Black" Text="{Binding Pertanyaan}" FontSize="20"></Label>
+                                <CollectionView ItemsSource="{Binding OpsiList}">
+                                    <CollectionView.ItemTemplate>
+                                        <DataTemplate x:DataType="model:ChoiceModel">
+                                            <RadioButton FontSize="20"  Content="{Binding Opsi}" CheckedChanged="OnRadioButtonCheckedChanged" GroupName="OpsiRGB"></RadioButton>
+                                        </DataTemplate>
+                                    </CollectionView.ItemTemplate>
+                                </CollectionView>
+                        </StackLayout>
+                    </DataTemplate>
+                </CarouselView.ItemTemplate>
+            </CarouselView>
+            <Button Text="Next" Clicked="NextQuestionClicked"></Button>
+        </StackLayout>
+
+    </ContentPage.Content>
+</ContentPage>

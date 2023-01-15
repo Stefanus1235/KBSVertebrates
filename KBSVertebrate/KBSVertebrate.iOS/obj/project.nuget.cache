@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rj2JEI3pqccLhCkj9MT0MFR2MYk2cPz7xfp8SvtZLFU2nCUKUdwqVW5DjPjCGIAuHwNDg25cKL67uBM6QRxQTg==",
+  "success": true,
+  "projectFilePath": "C:\\Kuliah\\Projects\\KBSVertebrate\\KBSVertebrate\\KBSVertebrate.iOS\\KBSVertebrate.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

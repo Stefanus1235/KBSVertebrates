@@ -1,0 +1,13 @@
+C:\Kuliah\Projects\KBSVertebrate\KBSVertebrate\KBSVertebrate.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Kuliah\Projects\KBSVertebrate\KBSVertebrate\KBSVertebrate.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Kuliah\Projects\KBSVertebrate\KBSVertebrate\KBSVertebrate.iOS\obj\iPhone\Debug\actool\_ProcessedImageAssetsPath.items
+C:\Kuliah\Projects\KBSVertebrate\KBSVertebrate\KBSVertebrate.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Kuliah\Projects\KBSVertebrate\KBSVertebrate\KBSVertebrate.iOS\obj\iPhone\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+C:\Kuliah\Projects\KBSVertebrate\KBSVertebrate\KBSVertebrate.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Kuliah\Projects\KBSVertebrate\KBSVertebrate\KBSVertebrate.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Kuliah\Projects\KBSVertebrate\KBSVertebrate\KBSVertebrate.iOS\obj\iPhone\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Kuliah\Projects\KBSVertebrate\KBSVertebrate\KBSVertebrate.iOS\obj\iPhone\Debug\_ProcessedBundleResourcesPath.items
+C:\Kuliah\Projects\KBSVertebrate\KBSVertebrate\KBSVertebrate.iOS\obj\iPhone\Debug\_ProcessedContentPath.items
+C:\Kuliah\Projects\KBSVertebrate\KBSVertebrate\KBSVertebrate.iOS\obj\iPhone\Debug\optimized\
+C:\Kuliah\Projects\KBSVertebrate\KBSVertebrate\KBSVertebrate.iOS\obj\iPhone\Debug\KBSVertebrate.iOS.csproj.AssemblyReference.cache
+C:\Kuliah\Projects\KBSVertebrate\KBSVertebrate\KBSVertebrate.iOS\obj\iPhone\Debug\KBSVertebrate.iOS.csproj.CoreCompileInputs.cache
